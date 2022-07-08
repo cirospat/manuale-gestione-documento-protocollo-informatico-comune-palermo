@@ -1,8 +1,8 @@
 
-.. _hd1f3d7c55f15653646402427195369:
+.. _h72345d717010d613cf211659707b56:
 
-1 - Principi generali
-*********************
+1- Principi generali
+********************
 
 :guilabel:`il testo visualizzato in questa modalità` è abrogato dalle Linee Guida AGID \ |LINK1|\ .
 
