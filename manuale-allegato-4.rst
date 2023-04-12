@@ -6,6 +6,11 @@ Allegato 4 - Titolario del Protocollo del Comune
 
 Il Titolario di riferimento  è quello indicato dall’Agenzia per l’Italia Digitale per i comuni (\ |LINK1|\ ), denominato “\ |STYLE0|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005.
 
+
++-------------------------------------------------------------------------------------------------------------------------------------------------+
+|\ |STYLE1|\ : Per l’organizzazione dei fascicoli e delle serie di documenti - in riferimento al titolario - vedi le \ |LINK2|\  a cura dell’AGID.|
++-------------------------------------------------------------------------------------------------------------------------------------------------+
+
 .. _h602411442c6c572b4ecd362d651f7b:
 
 Titolo I. Amministrazione generale
@@ -542,7 +547,7 @@ Titolo XIV. Oggetti diversi
 ..  Note:: 
 
     Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
-    \ |LINK2|\  
+    \ |LINK3|\  
 
 
 .. bottom of content
@@ -550,12 +555,18 @@ Titolo XIV. Oggetti diversi
 
 .. |STYLE0| replace:: *Piano di classificazione (= Titolario) per gli archivi dei Comuni italiani (seconda edizione)*
 
+.. |STYLE1| replace:: **NOTA**
+
 
 .. |LINK1| raw:: html
 
     <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico</a>
 
 .. |LINK2| raw:: html
+
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/linee_guida_per_fascicoli_e_serie_nei_comuni.pdf" target="_blank">Linee guida per fascicoli e serie nei Comuni</a>
+
+.. |LINK3| raw:: html
 
     <a href="http://bit.ly/manuale-allegato-4" target="_blank">http://bit.ly/manuale-allegato-4</a>
 
